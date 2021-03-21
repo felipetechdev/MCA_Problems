@@ -1,4 +1,4 @@
 # MCA_Problems
 Resolution
 
-Trying to make sure GitHub synchs everything
+[Link to video 1: How to use VS Code](https://www.youtube.com/watch?v=sz2EM-gkEs0)
